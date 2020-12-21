@@ -1,5 +1,5 @@
 Flask
 gunicorn
 numpy
-opencv-contrib-python
+opencv-contrib-python-headless
 
